@@ -1,0 +1,8 @@
+a.out
+*.exe
+*.o
+.DS_Store
+*.py
+.vscodec
+res.txt
+*.py

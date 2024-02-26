@@ -1,0 +1,8 @@
+a.out
+*.exe
+*.o
+.DS_Store
+.vscode
+
+*/tempCodeRunnerFile.cpp
+lab*/lab*_introduction.md

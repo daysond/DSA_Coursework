@@ -1,0 +1,6 @@
+a.out
+*.exe
+*.o
+.DS_Store
+*.pyc
+eraseEven.cpp
